@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">VirtueBiz</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_splash">VirtueBiz</string>
+    <string name="img_desc"></string>
+    <string name="header_title">Header Title</string>
+    <string name="top_page_title">Cover Title</string>
+    <string name="cover_desctiption">Cover Description</string>
+
+</resources>
